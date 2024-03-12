@@ -11,7 +11,7 @@ export const Bio = {
     "I am Final year Electronics and Communications Engineering student at Sardar Vallabhbhai National Institute of Technology, Surat (NIT Surat) with diverse skill set and technology stack, including programming languages (C/C++, Python & JavaScript). Experienced in front-end development (React Js, Next Js, HTML/CSS) and back-end development (Node Js, Django, SQL, MongoDB, Rest API, and Flask). Proficient in CS fundamentals and Devops skills include AWS cloud, Azure Devops, Docker, Git, and Github. Strong problem-solving and ownership skills demonstrated through freelancing projects and personal project development.",
   github: "https://github.com/KanhaBhawani/",
   resume:
-    "https://drive.google.com/file/d/1IxJ8wVn2UwgYGZoTjACBMjpAls3a4ukX/view?usp=sharing",
+    "https://drive.google.com/file/d/1dp1uWGV89xlPIWS2d-zNGuDRVrI5FmrW/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ghanistha-singhal-718349201",
   whatsapp: "https://wa.me/+919829644303",
   insta: "https://www.instagram.com/kanha_bhawani",
